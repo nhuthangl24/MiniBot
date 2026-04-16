@@ -1,0 +1,12 @@
+{
+  "name": "simple-telegram-bot",
+  "version": "1.0.0",
+  "description": "A simple Telegram bot using Telegraf",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
